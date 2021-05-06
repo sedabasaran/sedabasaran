@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @sedabasaran
 - 👀  I’m interested in Machine Learning,Data Science and Software Development.
-- 🌱  I’m currently learning Machine Learning.
+- 🌱  I’m currently learning Node.js.
 - 📫  How to reach me "https://www.linkedin.com/in/sedabasaran/".
 
 <!---
