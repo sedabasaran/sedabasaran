@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @sedabasaran
-- 👀  I’m interested in Machine Learning,Data Science and Software Development.
+- 👀  I’m interested in Data Science.
 - 🌱  I’m currently learning Java
 - 📫  How to reach me "https://www.linkedin.com/in/sedabasaran/".
 
