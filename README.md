@@ -2,6 +2,8 @@
 - 👀  I’m interested in Data Science.
 - 🌱  I’m currently learning Java.
 - 📫  How to reach me "https://www.linkedin.com/in/sedabasaran/".
+- https://medium.com/@sedabasaran
+
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)      ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=radical) 
 
