@@ -3,8 +3,9 @@
 - 📫  How to reach me "https://www.linkedin.com/in/sedabasaran/".
 - 🌱  Medium Account : https://medium.com/@sedabasaran
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&layout=compact)](https://github.com/sedabasaran/github-readme-stats)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)      ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=radical) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=radical) 
 
 
 
