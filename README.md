@@ -3,7 +3,7 @@
 - 📫  How to reach me : https://www.linkedin.com/in/sedabasaran/
 - 🌱  Medium Account : https://medium.com/@sedabasaran
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&theme=codeSTACKr)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=codeSTACKr) 
 
 
