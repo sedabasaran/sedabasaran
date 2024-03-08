@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @sedabasaran
-- 👀  I’m currently learning Java.
+- 👀  I’m currently learning Java Spring and React.
 - 🌱  Medium Account : https://medium.com/@sedabasaran
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&hide=shell&theme=codeSTACKr)
