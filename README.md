@@ -12,8 +12,3 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=red)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sedabasaran&theme=tokyonight&locale=tr)](https://git.io/streak-stats)
-<!---
-sedabasaran/sedabasaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
