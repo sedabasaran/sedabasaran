@@ -6,11 +6,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Langs](https://metrics.lecoq.io/sedabasaran?languages=1)
+![Metrics](https://metrics.lecoq.io/sedabasaran?template=classic&base=header,activity,community,languages)
 
-![Streak](https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight)
 
 
 <!---
