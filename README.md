@@ -6,11 +6,11 @@
 
 ## 📊 GitHub Stats
 
-https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight
+![GitHub Streak](https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight)
 
-https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=blueviolet
+![GitHub Stars](https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=blueviolet)
 
-https://img.shields.io/github/stars/sedabasaran/HMRS-App?style=for-the-badge&logo=github&color=red
+![Stars](https://img.shields.io/github/stars/sedabasaran/HMRS-App?style=for-the-badge&logo=github&color=red)
 
 ![Top Repo 2](https://img.shields.io/github/stars/sedabasaran/REPO2?style=for-the-badge&logo=github&color=cyan)
 
