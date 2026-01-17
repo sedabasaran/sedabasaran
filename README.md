@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=red&height=200&section=header&text=sedabasaran&fontSize=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=vision-glow&height=200&section=header&text=sedabasaran&fontSize=70)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sedabasaran&theme=dark&locale=tr)](https://git.io/streak-stats)
 
