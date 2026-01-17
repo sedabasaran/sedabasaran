@@ -6,7 +6,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sedabasaran&theme=tokyonight)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sedabasaran&fontSize=70)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sedabasaran&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sedabasaran&layout=compact&theme=vision-glow)
 
 ![GitHub Stars](https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=red)
 
