@@ -6,7 +6,11 @@
 
 ## 📊 GitHub Stats
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=200&section=header&text=sedabasaran&fontSize=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sedabasaran&fontSize=70)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=sedabasaran&fontSize=70)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header&text=sedabasaran&fontSize=70&fontColor=ffffff)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sedabasaran&theme=dark&locale=tr)](https://git.io/streak-stats)
 
