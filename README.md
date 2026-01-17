@@ -1,5 +1,3 @@
-- 👋  Hi, I’m @sedabasaran
-- 👀  I’m currently learning Java Spring.
 - 🌱  Medium Account : https://medium.com/@sedabasaran
 - 👩🏻‍💻  LeetCode Account : https://leetcode.com/u/sedabasaran
 
