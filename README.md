@@ -6,13 +6,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sedabasaran&theme=tokyonight)
 
 ![GitHub Stars](https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=red)
 
 ![Stars](https://img.shields.io/github/stars/sedabasaran/HMRS-App?style=for-the-badge&logo=github&color=red)
 
-![Top Repo 2](https://img.shields.io/github/stars/sedabasaran/Sales-Analysis?style=for-the-badge&logo=github&color=cyan)
+![Top Repo 2](https://img.shields.io/github/stars/sedabasaran/Sales-Analysis?style=for-the-badge&logo=github&color=red)
 
 <!---
 sedabasaran/sedabasaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
