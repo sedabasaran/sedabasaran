@@ -3,8 +3,14 @@
 - 🌱  Medium Account : https://medium.com/@sedabasaran
 - 👩🏻‍💻  LeetCode Account : https://leetcode.com/u/sedabasaran
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&hide=shell&theme=codeSTACKr)
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=codeSTACKr) 
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://metrics.lecoq.io/sedabasaran?languages=1)
+
+![Streak](https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight)
 
 
 <!---
