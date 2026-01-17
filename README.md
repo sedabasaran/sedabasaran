@@ -10,3 +10,4 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=red)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=radical)
