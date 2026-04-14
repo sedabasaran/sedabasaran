@@ -1,8 +1,8 @@
-- 🌱  Medium Account : https://medium.com/@sedabasaran
-- 👩🏻‍💻  LeetCode Account : https://leetcode.com/u/sedabasaran
+- 📝  Medium Account : https://medium.com/@sedabasaran
+- 👩🏽‍💻  LeetCode Account : https://leetcode.com/u/sedabasaran
 
 
-## 📊 GitHub Stats
+## ✨ GitHub Stats
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=200&section=header&text=sedabasaran&fontSize=70&fontColor=ffffff)
 
