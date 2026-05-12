@@ -35,7 +35,8 @@
 
 <p align="center">
 
-<a href="https://github.com/sedabasaran?tab=stars">
+![Total Stars](https://img.shields.io/github/stars/sedabasaran?style=flat-square&label=Toplam%20Yıldız&color=gold)
+
 <img src="https://img.shields.io/badge/GitHub%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
