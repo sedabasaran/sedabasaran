@@ -38,13 +38,10 @@
 
 ---
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight" />
 
-
 ---
-
-# 🧠 Profile Info
-
 <p align="center">
 
 <a href="https://github.com/sedabasaran?tab=stars">
