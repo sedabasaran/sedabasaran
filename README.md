@@ -25,22 +25,6 @@
 </a>
 
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight" />
-
 ---
 <p align="center">
 
@@ -51,9 +35,7 @@
 <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
-
 ---
-
 # 🐍 Contribution Snake
 
 <p align="center">
