@@ -13,14 +13,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/sedabasaran">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
 <a href="https://medium.com/@sedabasaran">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/sedabasaran">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 ---
@@ -31,7 +30,7 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=red) 
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
