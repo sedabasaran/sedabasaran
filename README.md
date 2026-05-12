@@ -2,35 +2,31 @@
 <h3 align="center">Passionate Developer • Open Source • Java Spring Boot</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+SpringBoot;Open+Source+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Spring+Boot;Open+Source+Lover;Always+Learning+New+Things" />
 </p>
-
----
-
-# 💫 About Me
-- 🚀 Building cool stuff
-- 🌱 Learning new technologies
-- ⚡ Love clean UI & powerful backend
-- 🧠 Interested in Java Spring Boot 
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/sedabasaran">
+
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
-</p>
-<p align="right">
-<a href="https://medium.com/@sedabasaran">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
-<p align="right">
-<a href="https://leetcode.com/u/sedabasaran">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
+<a href="https://medium.com/@YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
 </p>
 ---
 
