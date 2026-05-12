@@ -32,25 +32,25 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<a href="https://github.com/sedabasaran?tab=stars">
+<img src="https://img.shields.io/badge/GitHub%20Stars-View%20on%20GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sedabasaran&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+https://github-readme-stats.vercel.app/api?username=sedabasaran
 
 ---
 
