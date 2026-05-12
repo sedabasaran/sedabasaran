@@ -35,12 +35,12 @@
 
 <p align="center">
 
-  <!-- Profile Views: Sol siyah, sağ kırmızı, kalın stil -->
-  <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=PROFILE%20VIEWS&color=FF073A&style=for-the-badge&labelColor=black"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=PROFILE%20VIEWS&color=FF073A&style=for-the-badge&labelColor=555555"/>
 
-  <!-- GitHub Stars: Sol siyah, sağ kırmızı, kalın stil -->
+  <!-- GitHub Stars -->
   <a href="https://github.com/sedabasaran">
-    <img src="https://img.shields.io/github/stars/xxxxx?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=FF073A&label=GITHUB%20STARS"/>
+    <img src="https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&logoColor=white&labelColor=555555&color=FF073A&label=GITHUB%20STARS"/>
   </a>
 
 </p>
