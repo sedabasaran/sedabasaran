@@ -37,6 +37,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&logoColor=black&color=FFD700&label=GitHub%20Stars"/>
+<a href="https://github.com/sedabasaran">
+  <img src="https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&logoColor=white&color=FF073A&label=GitHub%20Stars"/>
+</a>
 
 </p>
