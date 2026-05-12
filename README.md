@@ -28,11 +28,19 @@
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sedabasaran&layout=compact&theme=vision-friendly-dark)
 
-![GitHub Stars](https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=red) 
-
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<a href="https://github.com/sedabasaran?tab=stars">
+<img src="https://img.shields.io/badge/GitHub%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight&hide_border=true"/>
 
 ---
 
