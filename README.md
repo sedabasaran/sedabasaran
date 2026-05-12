@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Seda Basaran</h1>
+<h1 align="center">I'm Seda Basaran</h1>
 
 <h3 align="center">Passionate Developer • Open Source • Java Spring Boot</h3>
 
@@ -30,6 +30,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sedabasaran/sedabasaran/output/snake.svg" />
 </p>
+
 ---
 
 <p align="center">
