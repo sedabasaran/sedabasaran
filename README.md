@@ -30,7 +30,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sedabasaran/sedabasaran/output/snake.svg" />
 </p>
-
 ---
 
 <p align="center">
