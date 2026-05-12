@@ -35,11 +35,11 @@
 
 <p align="center">
 
-![Total Stars](https://img.shields.io/github/stars/sedabasaran?style=flat-square&label=Toplam%20Yıldız&color=gold)
-
 <img src="https://img.shields.io/badge/GitHub%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&logoColor=black&color=FFD700&label=GitHub%20Stars"/>
 
 </p>
