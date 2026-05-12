@@ -22,19 +22,16 @@
 </a>
 
 </p>
+
 ---
 
 # 💻 Tech Stack
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sedabasaran&layout=compact&theme=vision-friendly-dark)
 
-![GitHub Stars](https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=red)
+![GitHub Stars](https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&color=red) 
 
----
-
-# 👀 Profile Views
-
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
