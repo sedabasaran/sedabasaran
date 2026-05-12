@@ -38,19 +38,8 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight" />
 
-<a href="https://github.com/sedabasaran?tab=stars">
-<img src="https://img.shields.io/badge/GitHub%20Stars-View%20on%20GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-https://github-readme-stats.vercel.app/api?username=sedabasaran
 
 ---
 
