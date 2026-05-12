@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm sedabasaran</h1>
+<h1 align="center">Hey I'm Seda Basaran</h1>
 
 <h3 align="center">Passionate Developer • Open Source • Java Spring Boot</h3>
 
