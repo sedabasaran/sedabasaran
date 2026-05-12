@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Spring+Boot;Open+Source+Lover;Always+Learning+New+Things" />
 </p>
 
----
-
-# 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="center">
 
