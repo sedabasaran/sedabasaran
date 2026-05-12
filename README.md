@@ -1,4 +1,5 @@
-<h1 align="center">Hey , I'm sedabasaran</h1>
+<h1 align="center">Hey 👋 I'm sedabasaran</h1>
+
 <h3 align="center">Passionate Developer • Open Source • Java Spring Boot</h3>
 
 <p align="center">
@@ -8,6 +9,8 @@
 ---
 
 # 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/sedabasaran">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,15 +23,40 @@
 <a href="https://leetcode.com/sedabasaran">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sedabasaran&layout=compact&theme=vision-friendly-dark)
+<p align="center">
 
-<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sedabasaran&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Profile Info
+
+<p align="center">
 
 <a href="https://github.com/sedabasaran?tab=stars">
 <img src="https://img.shields.io/badge/GitHub%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
@@ -37,10 +65,6 @@
 <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sedabasaran&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedabasaran&layout=compact&theme=tokyonight&hide_border=true"/>
-<img src="https://streak-stats.demolab.com?user=sedabasaran&theme=tokyonight&hide_border=true"/>
 
 ---
 
