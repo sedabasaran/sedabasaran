@@ -35,10 +35,10 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=FF073A&style=for-the-badge&label_color=12100E"/>
 
-<a href="https://github.com/sedabasaran">
-  <img src="https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&logoColor=white&color=FF073A&label=GitHub%20Stars"/>
-</a>
+  <a href="https://github.com/sedabasaran">
+    <img src="https://img.shields.io/github/stars/sedabasaran?style=for-the-badge&logo=github&logoColor=white&labelColor=12100E&color=FF073A&label=GitHub%20Stars"/>
+  </a>
 
 </p>
