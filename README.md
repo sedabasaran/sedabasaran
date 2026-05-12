@@ -25,7 +25,9 @@
 </a>
 
 </p>
+
 ---
+
 <p align="center">
 
 <a href="https://github.com/sedabasaran?tab=stars">
@@ -35,7 +37,9 @@
 <img src="https://komarev.com/ghpvc/?username=sedabasaran&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
+
 ---
+
 # 🐍 Contribution Snake
 
 <p align="center">
