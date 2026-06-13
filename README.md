@@ -3,7 +3,7 @@
 <h3 align="center">Passionate Developer • Open Source • Java Spring Boot</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=FF073A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Spring+Boot;Open+Source+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=FF073A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Spring+Boot;Python;Open+Source+Lover;Always+Learning+New+Things" />
 </p>
 
 <p align="center">🌐 Connect With Me</p>
